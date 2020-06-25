@@ -1,5 +1,5 @@
 {
-  "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
+  "author": "Shinichi Tomita <shinichi.tomita@gmail.com> Collabator Emeldo Quiroz <equiroz@hypernovalabs.com>",
   "name": "node-salesforce",
   "description": "Salesforce API Connection Library for Node.js Applications",
   "keywords": [
