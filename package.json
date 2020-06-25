@@ -37,7 +37,7 @@
     "coffee-script": "1.6.x",
     "faye": "0.8.x",
     "q": "0.9.x",
-    "request": "2.12.x",
+    "request": "2.88.x",
     "underscore": "1.4.x",
     "xml2js": "0.4.x"
   },
