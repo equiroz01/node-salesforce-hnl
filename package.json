@@ -1,6 +1,6 @@
 {
-  "author": "Shinichi Tomita <shinichi.tomita@gmail.com>",
-  "name": "node-salesforce",
+  "author": "Emeldo Quiroz <emeldoquiroz01@gmail.com>",
+  "name": "@equiroz-master/node-salesforce-hnl",
   "description": "Salesforce API Connection Library for Node.js Applications",
   "keywords": [
     "salesforce",
@@ -9,16 +9,16 @@
     "force.com",
     "database.com"
   ],
-  "homepage": "http://github.com/stomita/node-salesforce",
-  "version": "0.8.0",
+  "homepage": "https://github.com/equiroz-master/node-salesforce-hnl",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stomita/node-salesforce.git"
+    "url": "git://github.com/equiroz-master/node-salesforce-hnl.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/stomita/node-salesforce/raw/master/LICENSE"
+      "url": "http://github.com/equiroz-master/node-salesforce-hnl/raw/master/LICENSE"
     }
   ],
   "main": "./lib/salesforce",
@@ -29,8 +29,8 @@
     "node": ">=0.8.0"
   },
   "bin": {
-    "sfjs": "./bin/sfjs",
-    "sfcoffee": "./bin/sfcoffee"
+    "sfjs": "bin/sfjs",
+    "sfcoffee": "bin/sfcoffee"
   },
   "dependencies": {
     "async": "0.1.x",
@@ -46,5 +46,14 @@
     "power-assert": "0.2.x",
     "espower-loader": "0.1.x",
     "node-phantom": "0.2.x"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/equiroz-master/node-salesforce-hnl/issues"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
