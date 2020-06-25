@@ -5,4 +5,4 @@ Node-Salesforce is moved and renamed to JSforce (https://github.com/jsforce/jsfo
 
 This is a copy of the original salesforce project, which we need needed, small improvements to be able to work with the SOAP API
 
-estoy loco
+estoy loco 
