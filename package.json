@@ -1,6 +1,6 @@
 {
   "author": "Emeldo Quiroz <emeldoquiroz01@gmail.com>",
-  "name": "@equiroz-master/node-salesforce-hnl",
+  "name": "@equiroz01/node-salesforce-hnl",
   "description": "Salesforce API Connection Library for Node.js Applications",
   "keywords": [
     "salesforce",
@@ -9,8 +9,8 @@
     "force.com",
     "database.com"
   ],
-  "homepage": "https://github.com/equiroz-master/node-salesforce-hnl",
-  "version": "0.1.0",
+  "homepage": "https://github.com/equiroz01/node-salesforce-hnl",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/equiroz-master/node-salesforce-hnl.git"
@@ -18,7 +18,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/equiroz-master/node-salesforce-hnl/raw/master/LICENSE"
+      "url": "https://github.com/equiroz01/node-salesforce-hnl/raw/master/LICENSE"
     }
   ],
   "main": "./lib/salesforce",
@@ -48,12 +48,12 @@
     "node-phantom": "0.2.x"
   },
   "bugs": {
-    "url": "https://github.com/equiroz-master/node-salesforce-hnl/issues"
+    "url": "https://github.com/equiroz01/node-salesforce-hnl/issues"
   },
   "directories": {
     "example": "examples",
     "lib": "lib",
     "test": "test"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "license": "ISC"
 }
