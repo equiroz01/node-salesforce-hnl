@@ -10,7 +10,7 @@
     "database.com"
   ],
   "homepage": "https://github.com/equiroz01/node-salesforce-hnl",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/equiroz-master/node-salesforce-hnl.git"
